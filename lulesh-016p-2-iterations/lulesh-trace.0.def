@@ -1,0 +1,2018 @@
+DV1.c.4"salmon"
+DUIf1cee0e6a891034
+DCR"VampirTrace 5.14.4"
+DTR9a98013b
+DTRG0T2192b6f09
+DP1NM"Process 0"
+DP100001NM"Thread 0:1"PT1
+DP2NM"Process 1"
+DP100002NM"Thread 1:1"PT2
+DP3NM"Process 2"
+DP100003NM"Thread 2:1"PT3
+DP4NM"Process 3"
+DP100004NM"Thread 3:1"PT4
+DP5NM"Process 4"
+DP100005NM"Thread 4:1"PT5
+DP6NM"Process 5"
+DP100006NM"Thread 5:1"PT6
+DP7NM"Process 6"
+DP100007NM"Thread 6:1"PT7
+DP8NM"Process 7"
+DP100008NM"Thread 7:1"PT8
+DPG3b9aca00M1,100001,2,100002,3,100003,4,100004,5,100005,6,100006,7,100007,8,100008,NM"All"
+DPG3b9aca01M1,100001,2,100002,3,100003,4,100004,5,100005,6,100006,7,100007,8,100008,NM"cab30"
+DPG3b9aca02M1,2,3,4,5,6,7,8,NM"MPI_COMM_WORLD"
+DPG3b9aca03M1,NM"MPI_COMM_SELF 0"
+DPG3b9aca04M4,NM"MPI_COMM_SELF 3"
+DPG3b9aca05M2,NM"MPI_COMM_SELF 1"
+DPG3b9aca06M3,NM"MPI_COMM_SELF 2"
+DPG3b9aca07M5,NM"MPI_COMM_SELF 4"
+DPG3b9aca08M8,NM"MPI_COMM_SELF 7"
+DPG3b9aca09M7,NM"MPI_COMM_SELF 6"
+DPG3b9aca0aM6,NM"MPI_COMM_SELF 5"
+DA1M7,
+DPGA3b9aca02V1
+DPGA3b9aca03V1
+DPGA3b9aca04V1
+DPGA3b9aca05V1
+DPGA3b9aca06V1
+DPGA3b9aca07V1
+DPGA3b9aca08V1
+DPGA3b9aca09V1
+DPGA3b9aca0aV1
+DSF1NM"MPI"
+DSF2NM"Pthread"
+DSF3NM"/g/g92/weber37/ronny/lulesh2.0.3/lulesh.cc"
+DSF4NM"/g/g92/weber37/ronny/lulesh2.0.3/lulesh-util.cc"
+DSF5NM"/g/g92/weber37/ronny/lulesh2.0.3/lulesh-init.cc"
+DSF6NM"/usr/include/c++/4.4.7/bits/stl_vector.h"
+DSF7NM"/usr/include/c++/4.4.7/bits/allocator.h"
+DSF8NM"/usr/include/c++/4.4.7/ext/new_allocator.h"
+DSF9NM"/g/g92/weber37/ronny/lulesh2.0.3/lulesh.h"
+DSFaNM"/usr/include/c++/4.4.7/bits/stl_iterator.h"
+DSFbNM"/usr/include/c++/4.4.7/bits/vector.tcc"
+DSFcNM"/usr/include/c++/4.4.7/bits/stl_algobase.h"
+DSFdNM"/usr/include/c++/4.4.7/bits/stl_uninitialized.h"
+DSFeNM"/usr/include/c++/4.4.7/bits/stl_construct.h"
+DSFfNM"/g/g92/weber37/ronny/lulesh2.0.3/lulesh-comm.cc"
+DSF10NM"OpenMP"
+DSF11NM"lulesh.cc"
+DS1F3LNa81
+DS2F4LN3c
+DS3F4LNb
+DS4F5LN289
+DS5F5LNf
+DS6F6LNcf
+DS7F6LN68
+DS8F6LN50
+DS9F7LN65
+DSaF8LN42
+DSbF9LN18b
+DScF9LN18c
+DSdF9LNa1
+DSeF6LN228
+DSfF6LN214
+DS10F6LN1bb
+DS11FaLN2ae
+DS12F6LN352
+DS13FbLN175
+DS14F6LN46e
+DS15F6LN219
+DS16F6LN61
+DS17F8LN62
+DS18FcLNd1
+DS19F6LN1a9
+DS1aFaLN358
+DS1bFaLN2ee
+DS1cF6LN8b
+DS1dF8LN54
+DS1eF6LN5d
+DS1fFdLN13b
+DS20FdLNd9
+DS21FdLNc9
+DS22FcLN311
+DS23FcLN10d
+DS24FcLN2f2
+DS25FdLN105
+DS26FdLNfe
+DS27FdLN6a
+DS28FdLN5a
+DS29FcLN1ca
+DS2aFcLN11f
+DS2bFcLN1af
+DS2cFcLN182
+DS2dFcLN178
+DS2eFeLN92
+DS2fFeLN77
+DS30FeLN6d
+DS31F6LN8f
+DS32F9LN18d
+DS33F9LN8c
+DS34F5LN13d
+DS35F9LN187
+DS36F9LN188
+DS37F9LN189
+DS38F9LN134
+DS39F6LN262
+DS3aF9LN137
+DS3bF9LN13a
+DS3cF9LN14f
+DS3dF9LN142
+DS3eF9LNf5
+DS3fF9LNf6
+DS40F9LNf7
+DS41F9LNfa
+DS42F9LNfb
+DS43F9LNfc
+DS44F9LN104
+DS45F5LNbc
+DS46F9LNf0
+DS47F9LNf1
+DS48F9LNf2
+DS49F9LN117
+DS4aF5LNf2
+DS4bF5LN178
+DS4cF9LN18a
+DS4dF9LN111
+DS4eF9LN112
+DS4fF9LN115
+DS50F5LN1e7
+DS51F5LN200
+DS52F9LN11a
+DS53F9LN11b
+DS54F9LN11c
+DS55F9LN11d
+DS56F9LN11e
+DS57F9LN11f
+DS58F5LN21e
+DS59F9LN122
+DS5aF9LN17d
+DS5bF9LN179
+DS5cF9LN177
+DS5dF9LN178
+DS5eF9LN17a
+DS5fF9LN17b
+DS60F9LN17c
+DS61F9LN175
+DS62F9LN17f
+DS63F3LN56d
+DS64F3LN516
+DS65F9LN146
+DS66F9LN152
+DS67F9LN176
+DS68FfLN3b
+DS69F9LN180
+DS6aF9LN18f
+DS6bF9LN190
+DS6cF9LN183
+DS6dF9LN185
+DS6eF9LN182
+DS6fF9LN184
+DS70FfLN165
+DS71FfLN350
+DS72F3LNc2
+DS73F3LNa50
+DS74F3LN4e4
+DS75F9LN15d
+DS76F3LN46c
+DS77F11LN136
+DS78F11LN139
+DS79F11LN225
+DS7aF11LN24c
+DS7bF11LN251
+DS7cF11LN262
+DS7dF11LN32a
+DS7eF11LN3e1
+DS7fF11LN3e5
+DS80F11LN3f6
+DS81F11LN40d
+DS82F11LN42d
+DS83F11LN456
+DS84F11LN45f
+DS85F11LN476
+DS86F11LN47b
+DS87F11LN493
+DS88F11LN498
+DS89F11LN4a3
+DS8aF11LN4b6
+DS8bF11LN4a6
+DS8cF11LN4a8
+DS8dF11LN4ac
+DS8eF11LN4ae
+DS8fF11LN4b2
+DS90F11LN4b4
+DS91F11LN4c0
+DS92F11LN4d0
+DS93F11LN4d8
+DS94F11LN4de
+DS95F11LN602
+DS96F11LN63b
+DS97F11LN64c
+DS98F11LN662
+DS99F11LN66e
+DS9aF11LN6f8
+DS9bF11LN706
+DS9cF11LN79c
+DS9dF11LN803
+DS9eF11LN808
+DS9fF11LN80a
+DSa0F11LN818
+DSa1F11LN82b
+DSa2F11LN833
+DSa3F11LN838
+DSa4F11LN84f
+DSa5F11LN851
+DSa6F11LN85c
+DSa7F11LN861
+DSa8F11LN881
+DSa9F11LN886
+DSaaF11LN898
+DSabF11LN8a8
+DSacF11LN8b4
+DSadF11LN8dd
+DSaeF11LN90d
+DSafF11LN8df
+DSb0F11LN8e8
+DSb1F11LN8ea
+DSb2F11LN8f1
+DSb3F11LN8f5
+DSb4F11LN8fb
+DSb5F11LN8fe
+DSb6F11LN906
+DSb7F11LN909
+DSb8F11LN90c
+DSb9F11LN916
+DSbaF11LN91c
+DSbbF11LN93f
+DSbcF11LN968
+DSbdF11LN943
+DSbeF11LN947
+DSbfF11LN94b
+DSc0F11LN94f
+DSc1F11LN955
+DSc2F11LN967
+DSc3F11LN985
+DSc4F11LN98d
+DSc5F11LN9bf
+DSc6F11LN9e3
+DSc7F11LN9cb
+DSc8F11LN9df
+DSc9F11LNa0a
+DScaF11LNa25
+DScbF11LNa15
+DSccF11LNa21
+DScdF9LNff
+DSceF9LN100
+DScfF9LN101
+DSd0F3LN442
+DSd1F9LN164
+DSd2F3LNad
+DSd3F3LN12d
+DSd4F3LN20b
+DSd5F3LNfe
+DSd6F3LN13f
+DSd7F3LN1c0
+DSd8F3LN19a
+DSd9F3LN1fb
+DSdaF9LN154
+DSdbF9LN157
+DSdcF3LNb3
+DSddF3LN400
+DSdeF3LN28c
+DSdfF3LN26c
+DSe0F3LN2e3
+DSe1F9LN32
+DSe2F3LN2b8
+DSe3F3LN490
+DSe4F3LN49e
+DSe5F9LN10a
+DSe6F6LN23e
+DSe7F6LN1b2
+DSe8F6LN1c4
+DSe9FaLN303
+DSeaF9LN107
+DSebF9LN10b
+DSecF9LN108
+DSedF9LN10c
+DSeeF9LN109
+DSefF3LN4bc
+DSf0F9LN36
+DSf1F3LN4d6
+DSf2FfLN4ed
+DSf3F3LN996
+DSf4F3LN641
+DSf5F9LNdb
+DSf6F3LN5fd
+DSf7F9LN143
+DSf8F3LN58f
+DSf9F3LN577
+DSfaF9LN2e
+DSfbF9LN14c
+DSfcF3LN5bc
+DSfdF9LN125
+DSfeF9LN126
+DSffF9LN127
+DS100F9LN149
+DS101F9LNe2
+DS102F6LN3b6
+DS103F6LN47c
+DS104F3LN7b7
+DS105F9LNc3
+DS106F3LN66a
+DS107F9LN131
+DS108F9LN12c
+DS109F9LN12f
+DS10aF9LN12a
+DS10bF9LN130
+DS10cF9LN12b
+DS10dFfLN694
+DS10eF3LN7a2
+DS10fF3LN6fe
+DS110F9LN167
+DS111F9LN166
+DS112F9LN169
+DS113F9LN16a
+DS114F9LN13f
+DS115F9LN13d
+DS116F9LNd0
+DS117F9LN165
+DS118F3LN936
+DS119F9LN16e
+DS11aF9LN16d
+DS11bF9LN114
+DS11cF3LN8ba
+DS11dF9LN15e
+DS11eF9LN15f
+DS11fF9LN168
+DS120F9LN160
+DS121F9LN16f
+DS122F9LN170
+DS123F9LN172
+DS124F3LN81e
+DS125F3LN7fc
+DS126F3LN8a2
+DS127F9LN161
+DS128F3LN981
+DS129F3LNa38
+DS12aF9LN16b
+DS12bF3LN9aa
+DS12cF9LN171
+DS12dF3LN9f7
+DS12eFcLN2da
+DS12fFcLN2b9
+DS130F4LNac
+DFG1NM"Application"
+DFG2NM"VT_API"
+DFG3NM"OMP-PREG"
+DFG4NM"MPI"
+DFG5NM"PTHREAD"
+DFG6NM"OMP"
+DFG7NM"OMP-LOOP"
+DFG8NM"OMP-SYNC"
+DF1G1NM"user"
+DF2G2NM"sync"
+DF3G2NM"sync time"
+DF4G2NM"flush"
+DF5G2NM"dump statistics"
+DF6G2NM"tracing off"
+DF7G2NM"rewind"
+DF8G3NM"parallel region"
+DF9G4NM"MPI_Init"
+DFaG4NM"MPI_Initialized"
+DFbG5NM"pthread_create"
+DFcG5NM"pthread_join"
+DFdG5NM"pthread_exit"
+DFeG5NM"pthread_once"
+DFfG5NM"pthread_self"
+DF10G5NM"pthread_equal"
+DF11G5NM"pthread_detach"
+DF12G5NM"pthread_key_create"
+DF13G5NM"pthread_key_delete"
+DF14G5NM"pthread_getspecific"
+DF15G5NM"pthread_setspecific"
+DF16G5NM"pthread_cancel"
+DF17G5NM"pthread_setcancelstate"
+DF18G5NM"pthread_testcancel"
+DF19G5NM"pthread_getschedparam"
+DF1aG5NM"pthread_setschedparam"
+DF1bG5NM"pthread_attr_init"
+DF1cG5NM"pthread_attr_destroy"
+DF1dG5NM"pthread_attr_setdetachstate"
+DF1eG5NM"pthread_attr_getdetachstate"
+DF1fG5NM"pthread_attr_getstacksize"
+DF20G5NM"pthread_attr_setstacksize"
+DF21G5NM"pthread_attr_getschedparam"
+DF22G5NM"pthread_attr_setschedparam"
+DF23G5NM"pthread_attr_getschedpolicy"
+DF24G5NM"pthread_attr_setschedpolicy"
+DF25G5NM"pthread_attr_setinheritsched"
+DF26G5NM"pthread_attr_getinheritsched"
+DF27G5NM"pthread_attr_setscope"
+DF28G5NM"pthread_attr_getscope"
+DF29G5NM"pthread_mutex_init"
+DF2aG5NM"pthread_mutex_destroy"
+DF2bG5NM"pthread_mutex_lock"
+DF2cG5NM"pthread_mutex_unlock"
+DF2dG5NM"pthread_mutex_trylock"
+DF2eG5NM"pthread_mutexattr_init"
+DF2fG5NM"pthread_mutexattr_destroy"
+DF30G5NM"pthread_mutexattr_getpshared"
+DF31G5NM"pthread_mutexattr_setpshared"
+DF32G5NM"pthread_cond_init"
+DF33G5NM"pthread_cond_destroy"
+DF34G5NM"pthread_cond_signal"
+DF35G5NM"pthread_cond_broadcast"
+DF36G5NM"pthread_cond_wait"
+DF37G5NM"pthread_cond_timedwait"
+DF38G5NM"pthread_condattr_init"
+DF39G5NM"pthread_condattr_destroy"
+DF3aG5NM"pthread_condattr_getpshared"
+DF3bG5NM"pthread_condattr_setpshared"
+DF3cG1NM"__sti__$E"
+DF3dG1NM"main"X1
+DF3eG4NM"MPI_Abort"
+DF3fG4NM"MPI_Address"
+DF40G4NM"MPI_Allgather"
+DF41G4NM"MPI_Allgatherv"
+DF42G4NM"MPI_Allreduce"
+DF43G4NM"MPI_Alltoall"
+DF44G4NM"MPI_Alltoallv"
+DF45G4NM"MPI_Attr_delete"
+DF46G4NM"MPI_Attr_get"
+DF47G4NM"MPI_Attr_put"
+DF48G4NM"MPI_Barrier"
+DF49G4NM"MPI_Bcast"
+DF4aG4NM"MPI_Bsend"
+DF4bG4NM"MPI_Bsend_init"
+DF4cG4NM"MPI_Buffer_attach"
+DF4dG4NM"MPI_Buffer_detach"
+DF4eG4NM"MPI_Cancel"
+DF4fG4NM"MPI_Cart_coords"
+DF50G4NM"MPI_Cart_create"
+DF51G4NM"MPI_Cart_get"
+DF52G4NM"MPI_Cart_map"
+DF53G4NM"MPI_Cart_rank"
+DF54G4NM"MPI_Cart_shift"
+DF55G4NM"MPI_Cart_sub"
+DF56G4NM"MPI_Cartdim_get"
+DF57G4NM"MPI_Comm_compare"
+DF58G4NM"MPI_Comm_create"
+DF59G4NM"MPI_Comm_dup"
+DF5aG4NM"MPI_Comm_free"
+DF5bG4NM"MPI_Comm_group"
+DF5cG4NM"MPI_Comm_rank"
+DF5dG4NM"MPI_Comm_remote_group"
+DF5eG4NM"MPI_Comm_remote_size"
+DF5fG4NM"MPI_Comm_size"
+DF60G4NM"MPI_Comm_split"
+DF61G4NM"MPI_Comm_test_inter"
+DF62G4NM"MPI_Dims_create"
+DF63G4NM"MPI_Errhandler_create"
+DF64G4NM"MPI_Errhandler_free"
+DF65G4NM"MPI_Errhandler_get"
+DF66G4NM"MPI_Errhandler_set"
+DF67G4NM"MPI_Error_class"
+DF68G4NM"MPI_Error_string"
+DF69G4NM"MPI_Finalize"
+DF6aG4NM"MPI_Gather"
+DF6bG4NM"MPI_Gatherv"
+DF6cG4NM"MPI_Get_count"
+DF6dG4NM"MPI_Get_elements"
+DF6eG4NM"MPI_Get_processor_name"
+DF6fG4NM"MPI_Get_version"
+DF70G4NM"MPI_Graph_create"
+DF71G4NM"MPI_Graph_get"
+DF72G4NM"MPI_Graph_map"
+DF73G4NM"MPI_Graph_neighbors"
+DF74G4NM"MPI_Graph_neighbors_count"
+DF75G4NM"MPI_Graphdims_get"
+DF76G4NM"MPI_Group_compare"
+DF77G4NM"MPI_Group_difference"
+DF78G4NM"MPI_Group_excl"
+DF79G4NM"MPI_Group_free"
+DF7aG4NM"MPI_Group_incl"
+DF7bG4NM"MPI_Group_intersection"
+DF7cG4NM"MPI_Group_range_excl"
+DF7dG4NM"MPI_Group_range_incl"
+DF7eG4NM"MPI_Group_rank"
+DF7fG4NM"MPI_Group_size"
+DF80G4NM"MPI_Group_translate_ranks"
+DF81G4NM"MPI_Group_union"
+DF82G4NM"MPI_Ibsend"
+DF83G4NM"MPI_Intercomm_create"
+DF84G4NM"MPI_Intercomm_merge"
+DF85G4NM"MPI_Iprobe"
+DF86G4NM"MPI_Irecv"
+DF87G4NM"MPI_Irsend"
+DF88G4NM"MPI_Isend"
+DF89G4NM"MPI_Issend"
+DF8aG4NM"MPI_Keyval_create"
+DF8bG4NM"MPI_Keyval_free"
+DF8cG4NM"MPI_Op_create"
+DF8dG4NM"MPI_Op_free"
+DF8eG4NM"MPI_Pack"
+DF8fG4NM"MPI_Pack_size"
+DF90G4NM"MPI_Pcontrol"
+DF91G4NM"MPI_Probe"
+DF92G4NM"MPI_Recv"
+DF93G4NM"MPI_Recv_init"
+DF94G4NM"MPI_Reduce"
+DF95G4NM"MPI_Reduce_scatter"
+DF96G4NM"MPI_Request_free"
+DF97G4NM"MPI_Rsend"
+DF98G4NM"MPI_Rsend_init"
+DF99G4NM"MPI_Scan"
+DF9aG4NM"MPI_Scatter"
+DF9bG4NM"MPI_Scatterv"
+DF9cG4NM"MPI_Send"
+DF9dG4NM"MPI_Send_init"
+DF9eG4NM"MPI_Sendrecv"
+DF9fG4NM"MPI_Sendrecv_replace"
+DFa0G4NM"MPI_Ssend"
+DFa1G4NM"MPI_Ssend_init"
+DFa2G4NM"MPI_Start"
+DFa3G4NM"MPI_Startall"
+DFa4G4NM"MPI_Test"
+DFa5G4NM"MPI_Test_cancelled"
+DFa6G4NM"MPI_Testall"
+DFa7G4NM"MPI_Testany"
+DFa8G4NM"MPI_Testsome"
+DFa9G4NM"MPI_Topo_test"
+DFaaG4NM"MPI_Type_commit"
+DFabG4NM"MPI_Type_contiguous"
+DFacG4NM"MPI_Type_extent"
+DFadG4NM"MPI_Type_free"
+DFaeG4NM"MPI_Type_hindexed"
+DFafG4NM"MPI_Type_hvector"
+DFb0G4NM"MPI_Type_indexed"
+DFb1G4NM"MPI_Type_lb"
+DFb2G4NM"MPI_Type_size"
+DFb3G4NM"MPI_Type_struct"
+DFb4G4NM"MPI_Type_ub"
+DFb5G4NM"MPI_Type_vector"
+DFb6G4NM"MPI_Unpack"
+DFb7G4NM"MPI_Wait"
+DFb8G4NM"MPI_Waitall"
+DFb9G4NM"MPI_Waitany"
+DFbaG4NM"MPI_Waitsome"
+DFbbG4NM"MPI_Wtick"
+DFbcG4NM"MPI_Wtime"
+DFbdG1NM"ParseCommandLineOptions(int, char**, int, cmdLineOpts*)"X2
+DFbeG1NM"StrToInt(char const*, int*)"X3
+DFbfG1NM"InitMeshDecomp(int, int, int*, int*, int*, int*)"X4
+DFc0G1NM"Domain::Domain(int, int, int, int, int, int, int, int, int)"X5
+DFc1G1NM"std::vector<double, std::allocator<double> >::vector()"X6
+DFc2G1NM"std::_Vector_base<double, std::allocator<double> >::_Vector_base()"X7
+DFc3G1NM"std::_Vector_base<double, std::allocator<double> >::_Vector_impl::_Vector_impl()"X8
+DFc4G1NM"std::allocator<double>::allocator()"X9
+DFc5G1NM"__gnu_cxx::new_allocator<double>::new_allocator()"Xa
+DFc6G1NM"std::vector<int, std::allocator<int> >::vector()"X6
+DFc7G1NM"std::_Vector_base<int, std::allocator<int> >::_Vector_base()"X7
+DFc8G1NM"std::_Vector_base<int, std::allocator<int> >::_Vector_impl::_Vector_impl()"X8
+DFc9G1NM"std::allocator<int>::allocator()"X9
+DFcaG1NM"__gnu_cxx::new_allocator<int>::new_allocator()"Xa
+DFcbG1NM"Domain::cost()"Xb
+DFccG1NM"Domain::numElem()"Xc
+DFcdG1NM"Domain::AllocateElemPersistent(int)"Xd
+DFceG1NM"std::vector<int, std::allocator<int> >::resize(unsigned long, int)"Xe
+DFcfG1NM"std::vector<int, std::allocator<int> >::size() const"Xf
+DFd0G1NM"std::vector<int, std::allocator<int> >::end()"X10
+DFd1G1NM"__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::__normal_iterator(int* const&)"X11
+DFd2G1NM"std::vector<int, std::allocator<int> >::insert(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, unsigned long, int const&)"X12
+DFd3G1NM"std::vector<int, std::allocator<int> >::_M_fill_insert(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >, unsigned long, int const&)"X13
+DFd4G1NM"std::vector<int, std::allocator<int> >::_M_check_len(unsigned long, char const*) const"X14
+DFd5G1NM"std::vector<int, std::allocator<int> >::max_size() const"X15
+DFd6G1NM"std::_Vector_base<int, std::allocator<int> >::_M_get_Tp_allocator() const"X16
+DFd7G1NM"__gnu_cxx::new_allocator<int>::max_size() const"X17
+DFd8G1NM"unsigned long const& std::max<unsigned long>(unsigned long const&, unsigned long const&)"X18
+DFd9G1NM"std::vector<int, std::allocator<int> >::begin()"X19
+DFdaG1NM"__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::difference_type __gnu_cxx::operator-<int*, std::vector<int, std::allocator<int> > >(__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > > const&, __gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > > const&)"X1a
+DFdbG1NM"__gnu_cxx::__normal_iterator<int*, std::vector<int, std::allocator<int> > >::base() const"X1b
+DFdcG1NM"std::_Vector_base<int, std::allocator<int> >::_M_allocate(unsigned long)"X1c
+DFddG1NM"__gnu_cxx::new_allocator<int>::allocate(unsigned long, void const*)"X1d
+DFdeG1NM"std::_Vector_base<int, std::allocator<int> >::_M_get_Tp_allocator()"X1e
+DFdfG1NM"void std::__uninitialized_fill_n_a<int*, unsigned long, int, int>(int*, unsigned long, int const&, std::allocator<int>&)"X1f
+DFe0G1NM"void std::uninitialized_fill_n<int*, unsigned long, int>(int*, unsigned long, int const&)"X20
+DFe1G1NM"void std::__uninitialized_fill_n<true>::uninitialized_fill_n<int*, unsigned long, int>(int*, unsigned long, int const&)"X21
+DFe2G1NM"int* std::fill_n<int*, unsigned long, int>(int*, unsigned long, int const&)"X22
+DFe3G1NM"std::__niter_base<int*, false>::__b(int*)"X23
+DFe4G1NM"_ZSt10__fill_n_aIPimiEN9__gnu_cxx11__enable_ifIXsr3std11__is_scalarIT1_EE7__valueET_E6__typeES4_T0_RKS3_"X24
+DFe5G1NM"int* std::__uninitialized_move_a<int*, int*, std::allocator<int> >(int*, int*, int*, std::allocator<int>&)"X25
+DFe6G1NM"int* std::__uninitialized_copy_a<int*, int*, int>(int*, int*, int*, std::allocator<int>&)"X26
+DFe7G1NM"int* std::uninitialized_copy<int*, int*>(int*, int*, int*)"X27
+DFe8G1NM"int* std::__uninitialized_copy<true>::uninitialized_copy<int*, int*>(int*, int*, int*)"X28
+DFe9G1NM"int* std::copy<int*, int*>(int*, int*, int*)"X29
+DFeaG1NM"std::__miter_base<int*, false>::__b(int*)"X2a
+DFebG1NM"int* std::__copy_move_a2<false, int*, int*>(int*, int*, int*)"X2b
+DFecG1NM"int* std::__copy_move_a<false, int*, int*>(int*, int*, int*)"X2c
+DFedG1NM"int* std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<int>(int const*, int const*, int*)"X2d
+DFeeG1NM"void std::_Destroy<int*, int>(int*, int*, std::allocator<int>&)"X2e
+DFefG1NM"void std::_Destroy<int*>(int*, int*)"X2f
+DFf0G1NM"void std::_Destroy_aux<true>::__destroy<int*>(int*, int*)"X30
+DFf1G1NM"std::_Vector_base<int, std::allocator<int> >::_M_deallocate(int*, unsigned long)"X31
+DFf2G1NM"std::vector<double, std::allocator<double> >::resize(unsigned long, double)"Xe
+DFf3G1NM"std::vector<double, std::allocator<double> >::size() const"Xf
+DFf4G1NM"std::vector<double, std::allocator<double> >::end()"X10
+DFf5G1NM"__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >::__normal_iterator(double* const&)"X11
+DFf6G1NM"std::vector<double, std::allocator<double> >::insert(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, unsigned long, double const&)"X12
+DFf7G1NM"std::vector<double, std::allocator<double> >::_M_fill_insert(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >, unsigned long, double const&)"X13
+DFf8G1NM"std::vector<double, std::allocator<double> >::_M_check_len(unsigned long, char const*) const"X14
+DFf9G1NM"std::vector<double, std::allocator<double> >::max_size() const"X15
+DFfaG1NM"std::_Vector_base<double, std::allocator<double> >::_M_get_Tp_allocator() const"X16
+DFfbG1NM"__gnu_cxx::new_allocator<double>::max_size() const"X17
+DFfcG1NM"std::vector<double, std::allocator<double> >::begin()"X19
+DFfdG1NM"__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >::difference_type __gnu_cxx::operator-<double*, std::vector<double, std::allocator<double> > >(__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > > const&, __gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > > const&)"X1a
+DFfeG1NM"__gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >::base() const"X1b
+DFffG1NM"std::_Vector_base<double, std::allocator<double> >::_M_allocate(unsigned long)"X1c
+DF100G1NM"__gnu_cxx::new_allocator<double>::allocate(unsigned long, void const*)"X1d
+DF101G1NM"std::_Vector_base<double, std::allocator<double> >::_M_get_Tp_allocator()"X1e
+DF102G1NM"void std::__uninitialized_fill_n_a<double*, unsigned long, double, double>(double*, unsigned long, double const&, std::allocator<double>&)"X1f
+DF103G1NM"void std::uninitialized_fill_n<double*, unsigned long, double>(double*, unsigned long, double const&)"X20
+DF104G1NM"void std::__uninitialized_fill_n<true>::uninitialized_fill_n<double*, unsigned long, double>(double*, unsigned long, double const&)"X21
+DF105G1NM"double* std::fill_n<double*, unsigned long, double>(double*, unsigned long, double const&)"X22
+DF106G1NM"std::__niter_base<double*, false>::__b(double*)"X23
+DF107G1NM"_ZSt10__fill_n_aIPdmdEN9__gnu_cxx11__enable_ifIXsr3std11__is_scalarIT1_EE7__valueET_E6__typeES4_T0_RKS3_"X24
+DF108G1NM"double* std::__uninitialized_move_a<double*, double*, std::allocator<double> >(double*, double*, double*, std::allocator<double>&)"X25
+DF109G1NM"double* std::__uninitialized_copy_a<double*, double*, double>(double*, double*, double*, std::allocator<double>&)"X26
+DF10aG1NM"double* std::uninitialized_copy<double*, double*>(double*, double*, double*)"X27
+DF10bG1NM"double* std::__uninitialized_copy<true>::uninitialized_copy<double*, double*>(double*, double*, double*)"X28
+DF10cG1NM"double* std::copy<double*, double*>(double*, double*, double*)"X29
+DF10dG1NM"std::__miter_base<double*, false>::__b(double*)"X2a
+DF10eG1NM"double* std::__copy_move_a2<false, double*, double*>(double*, double*, double*)"X2b
+DF10fG1NM"double* std::__copy_move_a<false, double*, double*>(double*, double*, double*)"X2c
+DF110G1NM"double* std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<double>(double const*, double const*, double*)"X2d
+DF111G1NM"void std::_Destroy<double*, double>(double*, double*, std::allocator<double>&)"X2e
+DF112G1NM"void std::_Destroy<double*>(double*, double*)"X2f
+DF113G1NM"void std::_Destroy_aux<true>::__destroy<double*>(double*, double*)"X30
+DF114G1NM"std::_Vector_base<double, std::allocator<double> >::_M_deallocate(double*, unsigned long)"X31
+DF115G1NM"Domain::numNode()"X32
+DF116G1NM"Domain::AllocateNodePersistent(int)"X33
+DF117G1NM"Domain::SetupCommBuffers(int)"X34
+DF118G1NM"Domain::sizeX()"X35
+DF119G1NM"Domain::sizeY()"X36
+DF11aG1NM"Domain::sizeZ()"X37
+DF11bG1NM"Domain::e(int)"X38
+DF11cG1NM"std::vector<double, std::allocator<double> >::operator[](unsigned long)"X39
+DF11dG1NM"Domain::p(int)"X3a
+DF11eG1NM"Domain::q(int)"X3b
+DF11fG1NM"Domain::ss(int)"X3c
+DF120G1NM"Domain::v(int)"X3d
+DF121G1NM"Domain::xd(int)"X3e
+DF122G1NM"Domain::yd(int)"X3f
+DF123G1NM"Domain::zd(int)"X40
+DF124G1NM"Domain::xdd(int)"X41
+DF125G1NM"Domain::ydd(int)"X42
+DF126G1NM"Domain::zdd(int)"X43
+DF127G1NM"Domain::nodalMass(int)"X44
+DF128G1NM"Domain::BuildMesh(int, int, int)"X45
+DF129G1NM"Domain::x(int)"X46
+DF12aG1NM"Domain::y(int)"X47
+DF12bG1NM"Domain::z(int)"X48
+DF12cG1NM"Domain::nodelist(int)"X49
+DF12dG1NM"std::vector<int, std::allocator<int> >::operator[](unsigned long)"X39
+DF12eG1NM"Domain::SetupThreadSupportStructures()"X4a
+DF12fG1NM"Domain::CreateRegionIndexSets(int, int)"X4b
+DF130G1NM"Domain::numReg()"X4c
+DF131G1NM"Domain::regElemSize(int)"X4d
+DF132G1NM"Domain::regNumList(int)"X4e
+DF133G1NM"Domain::regElemlist(int, int)"X4f
+DF134G1NM"Domain::SetupSymmetryPlanes(int)"X50
+DF135G1NM"Domain::SetupElementConnectivities(int)"X51
+DF136G1NM"Domain::lxim(int)"X52
+DF137G1NM"Domain::lxip(int)"X53
+DF138G1NM"Domain::letam(int)"X54
+DF139G1NM"Domain::letap(int)"X55
+DF13aG1NM"Domain::lzetam(int)"X56
+DF13bG1NM"Domain::lzetap(int)"X57
+DF13cG1NM"Domain::SetupBoundaryConditions(int)"X58
+DF13dG1NM"Domain::elemBC(int)"X59
+DF13eG1NM"Domain::dtfixed()"X5a
+DF13fG1NM"Domain::stoptime()"X5b
+DF140G1NM"Domain::deltatimemultlb()"X5c
+DF141G1NM"Domain::deltatimemultub()"X5d
+DF142G1NM"Domain::dtcourant()"X5e
+DF143G1NM"Domain::dthydro()"X5f
+DF144G1NM"Domain::dtmax()"X60
+DF145G1NM"Domain::time()"X61
+DF146G1NM"Domain::cycle()"X62
+DF147G1NM"CalcElemVolume(double const*, double const*, double const*)"X63
+DF148G1NM"CalcElemVolume(double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double)"X64
+DF149G1NM"Domain::volo(int)"X65
+DF14aG1NM"Domain::elemMass(int)"X66
+DF14bG1NM"Domain::deltatime()"X67
+DF14cG1NM"CommRecv(Domain&, int, int, int, int, int, bool, bool)"X68
+DF14dG1NM"Domain::numRanks()"X69
+DF14eG1NM"Domain::maxPlaneSize()"X6a
+DF14fG1NM"Domain::maxEdgeSize()"X6b
+DF150G1NM"Domain::rowLoc()"X6c
+DF151G1NM"Domain::tp()"X6d
+DF152G1NM"Domain::colLoc()"X6e
+DF153G1NM"Domain::planeLoc()"X6f
+DF154G1NM"CommSend(Domain&, int, int, double& (Domain::**)(int), int, int, int, bool, bool)"X70
+DF155G1NM"CommSBN(Domain&, int, double& (Domain::**)(int))"X71
+DF156G1NM"TimeIncrement(Domain&)"X72
+DF157G1NM"LagrangeLeapFrog(Domain&)"X73
+DF158G1NM"LagrangeNodal(Domain&)"X74
+DF159G1NM"Domain::u_cut() const"X75
+DF15aG1NM"CalcForceForNodes(Domain&)"X76
+DF15bG6NM"omp_destroy_lock"
+DF15cG6NM"omp_destroy_nest_lock"
+DF15dG6NM"omp_get_dynamic"
+DF15eG6NM"omp_get_max_threads"
+DF15fG6NM"omp_get_nested"
+DF160G6NM"omp_get_num_procs"
+DF161G6NM"omp_get_num_threads"
+DF162G6NM"omp_get_thread_num"
+DF163G6NM"omp_in_parallel"
+DF164G6NM"omp_init_lock"
+DF165G6NM"omp_init_nest_lock"
+DF166G6NM"omp_set_dynamic"
+DF167G6NM"omp_set_lock"
+DF168G6NM"omp_set_nest_lock"
+DF169G6NM"omp_set_nested"
+DF16aG6NM"omp_set_num_threads"
+DF16bG6NM"omp_test_lock"
+DF16cG6NM"omp_test_nest_lock"
+DF16dG6NM"omp_unset_lock"
+DF16eG6NM"omp_unset_nest_lock"
+DF16fG7NM"!$omp for @lulesh.cc:310"X77
+DF170G6NM"!$omp parallel @lulesh.cc:310"X77
+DF171G8NM"!$omp ibarrier @lulesh.cc:313"X78
+DF172G7NM"!$omp for @lulesh.cc:549"X79
+DF173G6NM"!$omp parallel @lulesh.cc:549"X79
+DF174G8NM"!$omp ibarrier @lulesh.cc:588"X7a
+DF175G7NM"!$omp for @lulesh.cc:593"X7b
+DF176G6NM"!$omp parallel @lulesh.cc:593"X7b
+DF177G8NM"!$omp ibarrier @lulesh.cc:610"X7c
+DF178G7NM"!$omp for @lulesh.cc:810"X7d
+DF179G6NM"!$omp parallel @lulesh.cc:810"X7d
+DF17aG8NM"!$omp ibarrier @lulesh.cc:993"X7e
+DF17bG7NM"!$omp for @lulesh.cc:997"X7f
+DF17cG6NM"!$omp parallel @lulesh.cc:997"X7f
+DF17dG8NM"!$omp ibarrier @lulesh.cc:1014"X80
+DF17eG7NM"!$omp for @lulesh.cc:1037"X81
+DF17fG6NM"!$omp parallel @lulesh.cc:1037"X81
+DF180G8NM"!$omp ibarrier @lulesh.cc:1069"X82
+DF181G7NM"!$omp for @lulesh.cc:1110"X83
+DF182G6NM"!$omp parallel @lulesh.cc:1110"X83
+DF183G8NM"!$omp ibarrier @lulesh.cc:1119"X84
+DF184G7NM"!$omp for @lulesh.cc:1142"X85
+DF185G6NM"!$omp parallel @lulesh.cc:1142"X85
+DF186G8NM"!$omp ibarrier @lulesh.cc:1147"X86
+DF187G7NM"!$omp for @lulesh.cc:1171"X87
+DF188G6NM"!$omp parallel @lulesh.cc:1171"X87
+DF189G8NM"!$omp ibarrier @lulesh.cc:1176"X88
+DF18aG6NM"!$omp parallel @lulesh.cc:1187"X89
+DF18bG8NM"!$omp ibarrier @lulesh.cc:1206"X8a
+DF18cG7NM"!$omp for @lulesh.cc:1190"X8b
+DF18dG8NM"!$omp ibarrier @lulesh.cc:1192"X8c
+DF18eG7NM"!$omp for @lulesh.cc:1196"X8d
+DF18fG8NM"!$omp ibarrier @lulesh.cc:1198"X8e
+DF190G7NM"!$omp for @lulesh.cc:1202"X8f
+DF191G8NM"!$omp ibarrier @lulesh.cc:1204"X90
+DF192G7NM"!$omp for @lulesh.cc:1216"X91
+DF193G6NM"!$omp parallel @lulesh.cc:1216"X91
+DF194G8NM"!$omp ibarrier @lulesh.cc:1232"X92
+DF195G7NM"!$omp for @lulesh.cc:1240"X93
+DF196G6NM"!$omp parallel @lulesh.cc:1240"X93
+DF197G8NM"!$omp ibarrier @lulesh.cc:1246"X94
+DF198G7NM"!$omp for @lulesh.cc:1538"X95
+DF199G6NM"!$omp parallel @lulesh.cc:1538"X95
+DF19aG8NM"!$omp ibarrier @lulesh.cc:1595"X96
+DF19bG7NM"!$omp for @lulesh.cc:1612"X97
+DF19cG6NM"!$omp parallel @lulesh.cc:1612"X97
+DF19dG8NM"!$omp ibarrier @lulesh.cc:1634"X98
+DF19eG7NM"!$omp for @lulesh.cc:1646"X99
+DF19fG6NM"!$omp parallel @lulesh.cc:1646"X99
+DF1a0G8NM"!$omp ibarrier @lulesh.cc:1784"X9a
+DF1a1G7NM"!$omp for @lulesh.cc:1798"X9b
+DF1a2G6NM"!$omp parallel @lulesh.cc:1798"X9b
+DF1a3G8NM"!$omp ibarrier @lulesh.cc:1948"X9c
+DF1a4G7NM"!$omp for @lulesh.cc:2051"X9d
+DF1a5G6NM"!$omp parallel @lulesh.cc:2051"X9d
+DF1a6G8NM"!$omp ibarrier @lulesh.cc:2056"X9e
+DF1a7G7NM"!$omp for @lulesh.cc:2058"X9f
+DF1a8G6NM"!$omp parallel @lulesh.cc:2058"X9f
+DF1a9G8NM"!$omp ibarrier @lulesh.cc:2072"Xa0
+DF1aaG7NM"!$omp for @lulesh.cc:2091"Xa1
+DF1abG6NM"!$omp parallel @lulesh.cc:2091"Xa1
+DF1acG8NM"!$omp ibarrier @lulesh.cc:2099"Xa2
+DF1adG7NM"!$omp for @lulesh.cc:2104"Xa3
+DF1aeG6NM"!$omp parallel @lulesh.cc:2104"Xa3
+DF1afG8NM"!$omp ibarrier @lulesh.cc:2127"Xa4
+DF1b0G7NM"!$omp for @lulesh.cc:2129"Xa5
+DF1b1G6NM"!$omp parallel @lulesh.cc:2129"Xa5
+DF1b2G8NM"!$omp ibarrier @lulesh.cc:2140"Xa6
+DF1b3G7NM"!$omp for @lulesh.cc:2145"Xa7
+DF1b4G6NM"!$omp parallel @lulesh.cc:2145"Xa7
+DF1b5G8NM"!$omp ibarrier @lulesh.cc:2177"Xa8
+DF1b6G7NM"!$omp for @lulesh.cc:2182"Xa9
+DF1b7G6NM"!$omp parallel @lulesh.cc:2182"Xa9
+DF1b8G8NM"!$omp ibarrier @lulesh.cc:2200"Xaa
+DF1b9G7NM"!$omp for @lulesh.cc:2216"Xab
+DF1baG6NM"!$omp parallel @lulesh.cc:2216"Xab
+DF1bbG8NM"!$omp ibarrier @lulesh.cc:2228"Xac
+DF1bcG6NM"!$omp parallel @lulesh.cc:2269"Xad
+DF1bdG8NM"!$omp ibarrier @lulesh.cc:2317"Xae
+DF1beG7NM"!$omp for @lulesh.cc:2271"Xaf
+DF1bfG8NM"!$omp ibarrier @lulesh.cc:2280"Xb0
+DF1c0G7NM"!$omp for @lulesh.cc:2282"Xb1
+DF1c1G8NM"!$omp ibarrier @lulesh.cc:2289"Xb2
+DF1c2G7NM"!$omp for @lulesh.cc:2293"Xb3
+DF1c3G8NM"!$omp ibarrier @lulesh.cc:2299"Xb4
+DF1c4G7NM"!$omp for @lulesh.cc:2302"Xb5
+DF1c5G8NM"!$omp ibarrier @lulesh.cc:2310"Xb6
+DF1c6G7NM"!$omp for @lulesh.cc:2313"Xb7
+DF1c7G8NM"!$omp ibarrier @lulesh.cc:2316"Xb8
+DF1c8G7NM"!$omp for @lulesh.cc:2326"Xb9
+DF1c9G6NM"!$omp parallel @lulesh.cc:2326"Xb9
+DF1caG8NM"!$omp ibarrier @lulesh.cc:2332"Xba
+DF1cbG6NM"!$omp parallel @lulesh.cc:2367"Xbb
+DF1ccG8NM"!$omp ibarrier @lulesh.cc:2408"Xbc
+DF1cdG7NM"!$omp for @lulesh.cc:2371"Xbd
+DF1ceG8NM"!$omp ibarrier @lulesh.cc:2375"Xbe
+DF1cfG7NM"!$omp for @lulesh.cc:2379"Xbf
+DF1d0G8NM"!$omp ibarrier @lulesh.cc:2383"Xc0
+DF1d1G7NM"!$omp for @lulesh.cc:2389"Xc1
+DF1d2G8NM"!$omp ibarrier @lulesh.cc:2407"Xc2
+DF1d3G7NM"!$omp for @lulesh.cc:2437"Xc3
+DF1d4G6NM"!$omp parallel @lulesh.cc:2437"Xc3
+DF1d5G8NM"!$omp ibarrier @lulesh.cc:2445"Xc4
+DF1d6G6NM"!$omp parallel @lulesh.cc:2495"Xc5
+DF1d7G8NM"!$omp ibarrier @lulesh.cc:2531"Xc6
+DF1d8G7NM"!$omp for @lulesh.cc:2507"Xc7
+DF1d9G8NM"!$omp ibarrier @lulesh.cc:2527"Xc8
+DF1daG6NM"!$omp parallel @lulesh.cc:2570"Xc9
+DF1dbG8NM"!$omp ibarrier @lulesh.cc:2597"Xca
+DF1dcG7NM"!$omp for @lulesh.cc:2581"Xcb
+DF1ddG8NM"!$omp ibarrier @lulesh.cc:2593"Xcc
+DF1deG1NM"Domain::fx(int)"Xcd
+DF1dfG1NM"Domain::fy(int)"Xce
+DF1e0G1NM"Domain::fz(int)"Xcf
+DF1e1G1NM"CalcVolumeForceForElems(Domain&)"Xd0
+DF1e2G1NM"Domain::hgcoef() const"Xd1
+DF1e3G1NM"double* Allocate<double>(unsigned long)"Xd2
+DF1e4G1NM"InitStressTermsForElems(Domain&, double*, double*, double*, int)"Xd3
+DF1e5G1NM"IntegrateStressForElems(Domain&, double*, double*, double*, double*, int, int)"Xd4
+DF1e6G1NM"CollectDomainNodesToElemNodes(Domain&, int const*, double*, double*, double*)"Xd5
+DF1e7G1NM"CalcElemShapeFunctionDerivatives(double const*, double const*, double const*, double (*) [8], double*)"Xd6
+DF1e8G1NM"CalcElemNodeNormals(double*, double*, double*, double const*, double const*, double const*)"Xd7
+DF1e9G1NM"SumElemFaceNormal(double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double, double, double, double, double, double, double, double, double, double, double, double)"Xd8
+DF1eaG1NM"SumElemStressesToNodeForces(double const (*) [8], double, double, double, double*, double*, double*)"Xd9
+DF1ebG1NM"Domain::nodeElemCount(int)"Xda
+DF1ecG1NM"Domain::nodeElemCornerList(int)"Xdb
+DF1edG1NM"void Release<double>(double**)"Xdc
+DF1eeG1NM"CalcHourglassControlForElems(Domain&, double*, double)"Xdd
+DF1efG1NM"CalcElemVolumeDerivative(double*, double*, double*, double const*, double const*, double const*)"Xde
+DF1f0G1NM"VoluDer(double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double, double*, double*, double*)"Xdf
+DF1f1G1NM"CalcFBHourglassForceForElems(Domain&, double*, double*, double*, double*, double*, double*, double*, double, int, int)"Xe0
+DF1f2G1NM"CBRT(double)"Xe1
+DF1f3G1NM"CalcElemFBHourglassForce(double*, double*, double*, double (*) [4], double, double*, double*, double*)"Xe2
+DF1f4G1NM"CalcAccelerationForNodes(Domain&, int)"Xe3
+DF1f5G1NM"ApplyAccelerationBoundaryConditionsForNodes(Domain&)"Xe4
+DF1f6G1NM"Domain::symmXempty()"Xe5
+DF1f7G1NM"std::vector<int, std::allocator<int> >::empty() const"Xe6
+DF1f8G1NM"std::vector<int, std::allocator<int> >::begin() const"Xe7
+DF1f9G1NM"__gnu_cxx::__normal_iterator<int const*, std::vector<int, std::allocator<int> > >::__normal_iterator(int const* const&)"X11
+DF1faG1NM"std::vector<int, std::allocator<int> >::end() const"Xe8
+DF1fbG1NM"bool __gnu_cxx::operator==<int const*, std::vector<int, std::allocator<int> > >(__gnu_cxx::__normal_iterator<int const*, std::vector<int, std::allocator<int> > > const&, __gnu_cxx::__normal_iterator<int const*, std::vector<int, std::allocator<int> > > const&)"Xe9
+DF1fcG1NM"__gnu_cxx::__normal_iterator<int const*, std::vector<int, std::allocator<int> > >::base() const"X1b
+DF1fdG1NM"Domain::symmX(int)"Xea
+DF1feG1NM"Domain::symmYempty()"Xeb
+DF1ffG1NM"Domain::symmY(int)"Xec
+DF200G1NM"Domain::symmZempty()"Xed
+DF201G1NM"Domain::symmZ(int)"Xee
+DF202G1NM"CalcVelocityForNodes(Domain&, double, double, int)"Xef
+DF203G1NM"FABS(double)"Xf0
+DF204G1NM"CalcPositionForNodes(Domain&, double, int)"Xf1
+DF205G1NM"CommSyncPosVel(Domain&)"Xf2
+DF206G1NM"LagrangeElements(Domain&, int)"Xf3
+DF207G1NM"CalcLagrangeElements(Domain&, double*)"Xf4
+DF208G1NM"Domain::AllocateStrains(int)"Xf5
+DF209G1NM"CalcKinematicsForElems(Domain&, double*, double, int)"Xf6
+DF20aG1NM"Domain::delv(int)"Xf7
+DF20bG1NM"CalcElemCharacteristicLength(double const*, double const*, double const*, double)"Xf8
+DF20cG1NM"AreaFace(double, double, double, double, double, double, double, double, double, double, double, double)"Xf9
+DF20dG1NM"double const& std::max<double>(double const&, double const&)"X18
+DF20eG1NM"SQRT(double)"Xfa
+DF20fG1NM"Domain::arealg(int)"Xfb
+DF210G1NM"CalcElemVelocityGradient(double const*, double const*, double const*, double const (*) [8], double, double*)"Xfc
+DF211G1NM"Domain::dxx(int)"Xfd
+DF212G1NM"Domain::dyy(int)"Xfe
+DF213G1NM"Domain::dzz(int)"Xff
+DF214G1NM"Domain::vdov(int)"X100
+DF215G1NM"Domain::DeallocateStrains()"X101
+DF216G1NM"std::vector<double, std::allocator<double> >::clear()"X102
+DF217G1NM"std::vector<double, std::allocator<double> >::_M_erase_at_end(double*)"X103
+DF218G1NM"CalcQForElems(Domain&, double*)"X104
+DF219G1NM"Domain::AllocateGradients(int, int)"X105
+DF21aG1NM"CalcMonotonicQGradientsForElems(Domain&, double*)"X106
+DF21bG1NM"Domain::delx_zeta(int)"X107
+DF21cG1NM"Domain::delv_zeta(int)"X108
+DF21dG1NM"Domain::delx_xi(int)"X109
+DF21eG1NM"Domain::delv_xi(int)"X10a
+DF21fG1NM"Domain::delx_eta(int)"X10b
+DF220G1NM"Domain::delv_eta(int)"X10c
+DF221G1NM"CommMonoQ(Domain&)"X10d
+DF222G1NM"CalcMonotonicQForElems(Domain&, double*)"X10e
+DF223G1NM"CalcMonotonicQRegionForElems(Domain&, int, double*, double)"X10f
+DF224G1NM"Domain::monoq_limiter_mult() const"X110
+DF225G1NM"Domain::monoq_max_slope() const"X111
+DF226G1NM"Domain::qlc_monoq() const"X112
+DF227G1NM"Domain::qqc_monoq() const"X113
+DF228G1NM"Domain::qq(int)"X114
+DF229G1NM"Domain::ql(int)"X115
+DF22aG1NM"Domain::DeallocateGradients()"X116
+DF22bG1NM"Domain::qstop() const"X117
+DF22cG1NM"ApplyMaterialPropertiesForElems(Domain&, double*)"X118
+DF22dG1NM"Domain::eosvmin() const"X119
+DF22eG1NM"Domain::eosvmax() const"X11a
+DF22fG1NM"Domain::regElemlist(int)"X11b
+DF230G1NM"EvalEOSForElems(Domain&, double*, int, int*, int)"X11c
+DF231G1NM"Domain::e_cut() const"X11d
+DF232G1NM"Domain::p_cut() const"X11e
+DF233G1NM"Domain::ss4o3() const"X11f
+DF234G1NM"Domain::q_cut() const"X120
+DF235G1NM"Domain::pmin() const"X121
+DF236G1NM"Domain::emin() const"X122
+DF237G1NM"Domain::refdens() const"X123
+DF238G1NM"CalcEnergyForElems(double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double*, double, double, double, double, double, double*, double*, double, double, int, int*)"X124
+DF239G1NM"CalcPressureForElems(double*, double*, double*, double*, double*, double*, double, double, double, int, int*)"X125
+DF23aG1NM"CalcSoundSpeedForElems(Domain&, double*, double, double*, double*, double*, double*, double, int, int*)"X126
+DF23bG1NM"Domain::v_cut() const"X127
+DF23cG1NM"UpdateVolumesForElems(Domain&, double*, double, int)"X128
+DF23dG1NM"CalcTimeConstraintsForElems(Domain&)"X129
+DF23eG1NM"Domain::qqc() const"X12a
+DF23fG1NM"CalcCourantConstraintForElems(Domain&, int, int*, double, double&)"X12b
+DF240G1NM"Domain::dvovmax() const"X12c
+DF241G1NM"CalcHydroConstraintForElems(Domain&, int, int*, double, double&)"X12d
+DF242G1NM"void std::fill<double*, double>(double*, double*, double const&)"X12e
+DF243G1NM"_ZSt8__fill_aIPddEN9__gnu_cxx11__enable_ifIXsr3std11__is_scalarIT0_EE7__valueEvE6__typeET_S6_RKS3_"X12f
+DF244G1NM"VerifyAndWriteFinalOutput(double, Domain&, int, int)"X130
+DCO1NM"MPI_Allgather"Y4
+DCO2NM"MPI_Allgatherv"Y4
+DCO3NM"MPI_Allreduce"Y4
+DCO4NM"MPI_Alltoall"Y4
+DCO5NM"MPI_Alltoallv"Y4
+DCO6NM"MPI_Barrier"Y1
+DCO7NM"MPI_Bcast"Y2
+DCO8NM"MPI_Gather"Y3
+DCO9NM"MPI_Gatherv"Y3
+DCOaNM"MPI_Reduce"Y3
+DCObNM"MPI_Reduce_scatter"Y4
+DCOcNM"MPI_Scan"Y4
+DCOdNM"MPI_Scatter"Y2
+DCOeNM"MPI_Scatterv"Y2
+DCG1NM"Miscellaneous"
+DK1Y8NM"TUD::p2p-received-time"T""
+DCMT"Trace Times:"
+DCMT" Start: Tue Jul 22 08:32:20 2014 (1406043140115086)"
+DCMT" Stop: Tue Jul 22 08:32:23 2014 (1406043143606522)"
+DCMT" Elapsed: 00:00:03 (3491436)"
+DCMT"VampirTrace Environment:"
+DCMT" VT_MODE: TRACE"
+DCMT" VT_BUFFER_SIZE: 500M"
+DCMT" VT_SYNC_FLUSH: no"
+DCMT" VT_SYNC_FLUSH_LEVEL: 80"
+DCMT" VT_SNAPSHOTS: yes"
+DCMT" VT_MAX_SNAPSHOTS: 1024"
+DCMT" VT_ONOFF_CHECK_STACK_BALANCE: yes"
+DCMT" VT_MAX_STACK_DEPTH: 0"
+DCMT" VT_MAX_FLUSHES: 1"
+DCMT" VT_METRICS: <not set>"
+DCMT" VT_METRICS_SEP: :"
+DCMT" VT_RUSAGE: <not set>"
+DCMT" VT_MPITRACE: yes"
+DCMT" VT_MPI_IGNORE_FILTER: no"
+DCMT" VT_CPUIDTRACE: no"
+DCMT" VT_EXECTRACE: yes"
+DCMT" VT_IOTRACE: no"
+DCMT" VT_IOTRACE_EXTENDED: no"
+DCMT" VT_PTHREAD_REUSE: yes"
+DCMT" VT_FILTER_SPEC: filter"
+DCMT" VT_GROUPS_SPEC: <not set>"
+DAUX862951Y2
+DAUX10c52a2Y2
+DAUX1927bf3Y2
+DAUX218a544Y2
+DAUX29ece95Y2
+DAUX324f7e6Y2
+DAUX3ab2137Y2
+DAUX4314a88Y2
+DAUX4b773d9Y2
+DAUX53d9d2aY2
+DAUX5c3c67bY2
+DAUX649efccY2
+DAUX6d0191dY2
+DAUX756426eY2
+DAUX7dc6bbfY2
+DAUX8629510Y2
+DAUX8e8be61Y2
+DAUX96ee7b2Y2
+DAUX9f51103Y2
+DAUXa7b3a54Y2
+DAUXb0163a5Y2
+DAUXb878cf6Y2
+DAUXc0db647Y2
+DAUXc93df98Y2
+DAUXd1a08e9Y2
+DAUXda0323aY2
+DAUXe265b8bY2
+DAUXeac84dcY2
+DAUXf32ae2dY2
+DAUXfb8d77eY2
+DAUX103f00cfY2
+DAUX10c52a20Y2
+DAUX114b5371Y2
+DAUX11d17cc2Y2
+DAUX1257a613Y2
+DAUX12ddcf64Y2
+DAUX1363f8b5Y2
+DAUX13ea2206Y2
+DAUX14704b57Y2
+DAUX14f674a8Y2
+DAUX157c9df9Y2
+DAUX1602c74aY2
+DAUX1688f09bY2
+DAUX170f19ecY2
+DAUX1795433dY2
+DAUX181b6c8eY2
+DAUX18a195dfY2
+DAUX1927bf30Y2
+DAUX19ade881Y2
+DAUX1a3411d2Y2
+DAUX1aba3b23Y2
+DAUX1b406474Y2
+DAUX1bc68dc5Y2
+DAUX1c4cb716Y2
+DAUX1cd2e067Y2
+DAUX1d5909b8Y2
+DAUX1ddf3309Y2
+DAUX1e655c5aY2
+DAUX1eeb85abY2
+DAUX1f71aefcY2
+DAUX1ff7d84dY2
+DAUX207e019eY2
+DAUX21042aefY2
+DAUX218a5440Y2
+DAUX22107d91Y2
+DAUX2296a6e2Y2
+DAUX231cd033Y2
+DAUX23a2f984Y2
+DAUX242922d5Y2
+DAUX24af4c26Y2
+DAUX25357577Y2
+DAUX25bb9ec8Y2
+DAUX2641c819Y2
+DAUX26c7f16aY2
+DAUX274e1abbY2
+DAUX27d4440cY2
+DAUX285a6d5dY2
+DAUX28e096aeY2
+DAUX2966bfffY2
+DAUX29ece950Y2
+DAUX2a7312a1Y2
+DAUX2af93bf2Y2
+DAUX2b7f6543Y2
+DAUX2c058e94Y2
+DAUX2c8bb7e5Y2
+DAUX2d11e136Y2
+DAUX2d980a87Y2
+DAUX2e1e33d8Y2
+DAUX2ea45d29Y2
+DAUX2f2a867aY2
+DAUX2fb0afcbY2
+DAUX3036d91cY2
+DAUX30bd026dY2
+DAUX31432bbeY2
+DAUX31c9550fY2
+DAUX324f7e60Y2
+DAUX32d5a7b1Y2
+DAUX335bd102Y2
+DAUX33e1fa53Y2
+DAUX346823a4Y2
+DAUX34ee4cf5Y2
+DAUX35747646Y2
+DAUX35fa9f97Y2
+DAUX3680c8e8Y2
+DAUX3706f239Y2
+DAUX378d1b8aY2
+DAUX381344dbY2
+DAUX38996e2cY2
+DAUX391f977dY2
+DAUX39a5c0ceY2
+DAUX3a2bea1fY2
+DAUX3ab21370Y2
+DAUX3b383cc1Y2
+DAUX3bbe6612Y2
+DAUX3c448f63Y2
+DAUX3ccab8b4Y2
+DAUX3d50e205Y2
+DAUX3dd70b56Y2
+DAUX3e5d34a7Y2
+DAUX3ee35df8Y2
+DAUX3f698749Y2
+DAUX3fefb09aY2
+DAUX4075d9ebY2
+DAUX40fc033cY2
+DAUX41822c8dY2
+DAUX420855deY2
+DAUX428e7f2fY2
+DAUX4314a880Y2
+DAUX439ad1d1Y2
+DAUX4420fb22Y2
+DAUX44a72473Y2
+DAUX452d4dc4Y2
+DAUX45b37715Y2
+DAUX4639a066Y2
+DAUX46bfc9b7Y2
+DAUX4745f308Y2
+DAUX47cc1c59Y2
+DAUX485245aaY2
+DAUX48d86efbY2
+DAUX495e984cY2
+DAUX49e4c19dY2
+DAUX4a6aeaeeY2
+DAUX4af1143fY2
+DAUX4b773d90Y2
+DAUX4bfd66e1Y2
+DAUX4c839032Y2
+DAUX4d09b983Y2
+DAUX4d8fe2d4Y2
+DAUX4e160c25Y2
+DAUX4e9c3576Y2
+DAUX4f225ec7Y2
+DAUX4fa88818Y2
+DAUX502eb169Y2
+DAUX50b4dabaY2
+DAUX513b040bY2
+DAUX51c12d5cY2
+DAUX524756adY2
+DAUX52cd7ffeY2
+DAUX5353a94fY2
+DAUX53d9d2a0Y2
+DAUX545ffbf1Y2
+DAUX54e62542Y2
+DAUX556c4e93Y2
+DAUX55f277e4Y2
+DAUX5678a135Y2
+DAUX56feca86Y2
+DAUX5784f3d7Y2
+DAUX580b1d28Y2
+DAUX58914679Y2
+DAUX59176fcaY2
+DAUX599d991bY2
+DAUX5a23c26cY2
+DAUX5aa9ebbdY2
+DAUX5b30150eY2
+DAUX5bb63e5fY2
+DAUX5c3c67b0Y2
+DAUX5cc29101Y2
+DAUX5d48ba52Y2
+DAUX5dcee3a3Y2
+DAUX5e550cf4Y2
+DAUX5edb3645Y2
+DAUX5f615f96Y2
+DAUX5fe788e7Y2
+DAUX606db238Y2
+DAUX60f3db89Y2
+DAUX617a04daY2
+DAUX62002e2bY2
+DAUX6286577cY2
+DAUX630c80cdY2
+DAUX6392aa1eY2
+DAUX6418d36fY2
+DAUX649efcc0Y2
+DAUX65252611Y2
+DAUX65ab4f62Y2
+DAUX663178b3Y2
+DAUX66b7a204Y2
+DAUX673dcb55Y2
+DAUX67c3f4a6Y2
+DAUX684a1df7Y2
+DAUX68d04748Y2
+DAUX69567099Y2
+DAUX69dc99eaY2
+DAUX6a62c33bY2
+DAUX6ae8ec8cY2
+DAUX6b6f15ddY2
+DAUX6bf53f2eY2
+DAUX6c7b687fY2
+DAUX6d0191d0Y2
+DAUX6d87bb21Y2
+DAUX6e0de472Y2
+DAUX6e940dc3Y2
+DAUX6f1a3714Y2
+DAUX6fa06065Y2
+DAUX702689b6Y2
+DAUX70acb307Y2
+DAUX7132dc58Y2
+DAUX71b905a9Y2
+DAUX723f2efaY2
+DAUX72c5584bY2
+DAUX734b819cY2
+DAUX73d1aaedY2
+DAUX7457d43eY2
+DAUX74ddfd8fY2
+DAUX756426e0Y2
+DAUX75ea5031Y2
+DAUX76707982Y2
+DAUX76f6a2d3Y2
+DAUX777ccc24Y2
+DAUX7802f575Y2
+DAUX78891ec6Y2
+DAUX790f4817Y2
+DAUX79957168Y2
+DAUX7a1b9ab9Y2
+DAUX7aa1c40aY2
+DAUX7b27ed5bY2
+DAUX7bae16acY2
+DAUX7c343ffdY2
+DAUX7cba694eY2
+DAUX7d40929fY2
+DAUX7dc6bbf0Y2
+DAUX7e4ce541Y2
+DAUX7ed30e92Y2
+DAUX7f5937e3Y2
+DAUX7fdf6134Y2
+DAUX80658a85Y2
+DAUX80ebb3d6Y2
+DAUX8171dd27Y2
+DAUX81f80678Y2
+DAUX827e2fc9Y2
+DAUX8304591aY2
+DAUX838a826bY2
+DAUX8410abbcY2
+DAUX8496d50dY2
+DAUX851cfe5eY2
+DAUX85a327afY2
+DAUX86295100Y2
+DAUX86af7a51Y2
+DAUX8735a3a2Y2
+DAUX87bbccf3Y2
+DAUX8841f644Y2
+DAUX88c81f95Y2
+DAUX894e48e6Y2
+DAUX89d47237Y2
+DAUX8a5a9b88Y2
+DAUX8ae0c4d9Y2
+DAUX8b66ee2aY2
+DAUX8bed177bY2
+DAUX8c7340ccY2
+DAUX8cf96a1dY2
+DAUX8d7f936eY2
+DAUX8e05bcbfY2
+DAUX8e8be610Y2
+DAUX8f120f61Y2
+DAUX8f9838b2Y2
+DAUX901e6203Y2
+DAUX90a48b54Y2
+DAUX912ab4a5Y2
+DAUX91b0ddf6Y2
+DAUX92370747Y2
+DAUX92bd3098Y2
+DAUX934359e9Y2
+DAUX93c9833aY2
+DAUX944fac8bY2
+DAUX94d5d5dcY2
+DAUX955bff2dY2
+DAUX95e2287eY2
+DAUX966851cfY2
+DAUX96ee7b20Y2
+DAUX9774a471Y2
+DAUX97facdc2Y2
+DAUX9880f713Y2
+DAUX99072064Y2
+DAUX998d49b5Y2
+DAUX9a137306Y2
+DAUX9a999c57Y2
+DAUX9b1fc5a8Y2
+DAUX9ba5eef9Y2
+DAUX9c2c184aY2
+DAUX9cb2419bY2
+DAUX9d386aecY2
+DAUX9dbe943dY2
+DAUX9e44bd8eY2
+DAUX9ecae6dfY2
+DAUX9f511030Y2
+DAUX9fd73981Y2
+DAUXa05d62d2Y2
+DAUXa0e38c23Y2
+DAUXa169b574Y2
+DAUXa1efdec5Y2
+DAUXa2760816Y2
+DAUXa2fc3167Y2
+DAUXa3825ab8Y2
+DAUXa4088409Y2
+DAUXa48ead5aY2
+DAUXa514d6abY2
+DAUXa59afffcY2
+DAUXa621294dY2
+DAUXa6a7529eY2
+DAUXa72d7befY2
+DAUXa7b3a540Y2
+DAUXa839ce91Y2
+DAUXa8bff7e2Y2
+DAUXa9462133Y2
+DAUXa9cc4a84Y2
+DAUXaa5273d5Y2
+DAUXaad89d26Y2
+DAUXab5ec677Y2
+DAUXabe4efc8Y2
+DAUXac6b1919Y2
+DAUXacf1426aY2
+DAUXad776bbbY2
+DAUXadfd950cY2
+DAUXae83be5dY2
+DAUXaf09e7aeY2
+DAUXaf9010ffY2
+DAUXb0163a50Y2
+DAUXb09c63a1Y2
+DAUXb1228cf2Y2
+DAUXb1a8b643Y2
+DAUXb22edf94Y2
+DAUXb2b508e5Y2
+DAUXb33b3236Y2
+DAUXb3c15b87Y2
+DAUXb44784d8Y2
+DAUXb4cdae29Y2
+DAUXb553d77aY2
+DAUXb5da00cbY2
+DAUXb6602a1cY2
+DAUXb6e6536dY2
+DAUXb76c7cbeY2
+DAUXb7f2a60fY2
+DAUXb878cf60Y2
+DAUXb8fef8b1Y2
+DAUXb9852202Y2
+DAUXba0b4b53Y2
+DAUXba9174a4Y2
+DAUXbb179df5Y2
+DAUXbb9dc746Y2
+DAUXbc23f097Y2
+DAUXbcaa19e8Y2
+DAUXbd304339Y2
+DAUXbdb66c8aY2
+DAUXbe3c95dbY2
+DAUXbec2bf2cY2
+DAUXbf48e87dY2
+DAUXbfcf11ceY2
+DAUXc0553b1fY2
+DAUXc0db6470Y2
+DAUXc1618dc1Y2
+DAUXc1e7b712Y2
+DAUXc26de063Y2
+DAUXc2f409b4Y2
+DAUXc37a3305Y2
+DAUXc4005c56Y2
+DAUXc48685a7Y2
+DAUXc50caef8Y2
+DAUXc592d849Y2
+DAUXc619019aY2
+DAUXc69f2aebY2
+DAUXc725543cY2
+DAUXc7ab7d8dY2
+DAUXc831a6deY2
+DAUXc8b7d02fY2
+DAUXc93df980Y2
+DAUXc9c422d1Y2
+DAUXca4a4c22Y2
+DAUXcad07573Y2
+DAUXcb569ec4Y2
+DAUXcbdcc815Y2
+DAUXcc62f166Y2
+DAUXcce91ab7Y2
+DAUXcd6f4408Y2
+DAUXcdf56d59Y2
+DAUXce7b96aaY2
+DAUXcf01bffbY2
+DAUXcf87e94cY2
+DAUXd00e129dY2
+DAUXd0943beeY2
+DAUXd11a653fY2
+DAUXd1a08e90Y2
+DAUXd226b7e1Y2
+DAUXd2ace132Y2
+DAUXd3330a83Y2
+DAUXd3b933d4Y2
+DAUXd43f5d25Y2
+DAUXd4c58676Y2
+DAUXd54bafc7Y2
+DAUXd5d1d918Y2
+DAUXd6580269Y2
+DAUXd6de2bbaY2
+DAUXd764550bY2
+DAUXd7ea7e5cY2
+DAUXd870a7adY2
+DAUXd8f6d0feY2
+DAUXd97cfa4fY2
+DAUXda0323a0Y2
+DAUXda894cf1Y2
+DAUXdb0f7642Y2
+DAUXdb959f93Y2
+DAUXdc1bc8e4Y2
+DAUXdca1f235Y2
+DAUXdd281b86Y2
+DAUXddae44d7Y2
+DAUXde346e28Y2
+DAUXdeba9779Y2
+DAUXdf40c0caY2
+DAUXdfc6ea1bY2
+DAUXe04d136cY2
+DAUXe0d33cbdY2
+DAUXe159660eY2
+DAUXe1df8f5fY2
+DAUXe265b8b0Y2
+DAUXe2ebe201Y2
+DAUXe3720b52Y2
+DAUXe3f834a3Y2
+DAUXe47e5df4Y2
+DAUXe5048745Y2
+DAUXe58ab096Y2
+DAUXe610d9e7Y2
+DAUXe6970338Y2
+DAUXe71d2c89Y2
+DAUXe7a355daY2
+DAUXe8297f2bY2
+DAUXe8afa87cY2
+DAUXe935d1cdY2
+DAUXe9bbfb1eY2
+DAUXea42246fY2
+DAUXeac84dc0Y2
+DAUXeb4e7711Y2
+DAUXebd4a062Y2
+DAUXec5ac9b3Y2
+DAUXece0f304Y2
+DAUXed671c55Y2
+DAUXeded45a6Y2
+DAUXee736ef7Y2
+DAUXeef99848Y2
+DAUXef7fc199Y2
+DAUXf005eaeaY2
+DAUXf08c143bY2
+DAUXf1123d8cY2
+DAUXf19866ddY2
+DAUXf21e902eY2
+DAUXf2a4b97fY2
+DAUXf32ae2d0Y2
+DAUXf3b10c21Y2
+DAUXf4373572Y2
+DAUXf4bd5ec3Y2
+DAUXf5438814Y2
+DAUXf5c9b165Y2
+DAUXf64fdab6Y2
+DAUXf6d60407Y2
+DAUXf75c2d58Y2
+DAUXf7e256a9Y2
+DAUXf8687ffaY2
+DAUXf8eea94bY2
+DAUXf974d29cY2
+DAUXf9fafbedY2
+DAUXfa81253eY2
+DAUXfb074e8fY2
+DAUXfb8d77e0Y2
+DAUXfc13a131Y2
+DAUXfc99ca82Y2
+DAUXfd1ff3d3Y2
+DAUXfda61d24Y2
+DAUXfe2c4675Y2
+DAUXfeb26fc6Y2
+DAUXff389917Y2
+DAUXffbec268Y2
+DAUX10044ebb9Y2
+DAUX100cb150aY2
+DAUX101513e5bY2
+DAUX101d767acY2
+DAUX1025d90fdY2
+DAUX102e3ba4eY2
+DAUX10369e39fY2
+DAUX103f00cf0Y2
+DAUX104763641Y2
+DAUX104fc5f92Y2
+DAUX1058288e3Y2
+DAUX10608b234Y2
+DAUX1068edb85Y2
+DAUX1071504d6Y2
+DAUX1079b2e27Y2
+DAUX108215778Y2
+DAUX108a780c9Y2
+DAUX1092daa1aY2
+DAUX109b3d36bY2
+DAUX10a39fcbcY2
+DAUX10ac0260dY2
+DAUX10b464f5eY2
+DAUX10bcc78afY2
+DAUX10c52a200Y2
+DAUX10cd8cb51Y2
+DAUX10d5ef4a2Y2
+DAUX10de51df3Y2
+DAUX10e6b4744Y2
+DAUX10ef17095Y2
+DAUX10f7799e6Y2
+DAUX10ffdc337Y2
+DAUX11083ec88Y2
+DAUX1110a15d9Y2
+DAUX111903f2aY2
+DAUX11216687bY2
+DAUX1129c91ccY2
+DAUX11322bb1dY2
+DAUX113a8e46eY2
+DAUX1142f0dbfY2
+DAUX114b53710Y2
+DAUX1153b6061Y2
+DAUX115c189b2Y2
+DAUX11647b303Y2
+DAUX116cddc54Y2
+DAUX1175405a5Y2
+DAUX117da2ef6Y2
+DAUX118605847Y2
+DAUX118e68198Y2
+DAUX1196caae9Y2
+DAUX119f2d43aY2
+DAUX11a78fd8bY2
+DAUX11aff26dcY2
+DAUX11b85502dY2
+DAUX11c0b797eY2
+DAUX11c91a2cfY2
+DAUX11d17cc20Y2
+DAUX11d9df571Y2
+DAUX11e241ec2Y2
+DAUX11eaa4813Y2
+DAUX11f307164Y2
+DAUX11fb69ab5Y2
+DAUX1203cc406Y2
+DAUX120c2ed57Y2
+DAUX1214916a8Y2
+DAUX121cf3ff9Y2
+DAUX12255694aY2
+DAUX122db929bY2
+DAUX12361bbecY2
+DAUX123e7e53dY2
+DAUX1246e0e8eY2
+DAUX124f437dfY2
+DAUX1257a6130Y2
+DAUX126008a81Y2
+DAUX12686b3d2Y2
+DAUX1270cdd23Y2
+DAUX127930674Y2
+DAUX128192fc5Y2
+DAUX1289f5916Y2
+DAUX129258267Y2
+DAUX129ababb8Y2
+DAUX12a31d509Y2
+DAUX12ab7fe5aY2
+DAUX12b3e27abY2
+DAUX12bc450fcY2
+DAUX12c4a7a4dY2
+DAUX12cd0a39eY2
+DAUX12d56ccefY2
+DAUX12ddcf640Y2
+DAUX12e631f91Y2
+DAUX12ee948e2Y2
+DAUX12f6f7233Y2
+DAUX12ff59b84Y2
+DAUX1307bc4d5Y2
+DAUX13101ee26Y2
+DAUX131881777Y2
+DAUX1320e40c8Y2
+DAUX132946a19Y2
+DAUX1331a936aY2
+DAUX133a0bcbbY2
+DAUX13426e60cY2
+DAUX134ad0f5dY2
+DAUX1353338aeY2
+DAUX135b961ffY2
+DAUX1363f8b50Y2
+DAUX136c5b4a1Y2
+DAUX1374bddf2Y2
+DAUX137d20743Y2
+DAUX138583094Y2
+DAUX138de59e5Y2
+DAUX139648336Y2
+DAUX139eaac87Y2
+DAUX13a70d5d8Y2
+DAUX13af6ff29Y2
+DAUX13b7d287aY2
+DAUX13c0351cbY2
+DAUX13c897b1cY2
+DAUX13d0fa46dY2
+DAUX13d95cdbeY2
+DAUX13e1bf70fY2
+DAUX13ea22060Y2
+DAUX13f2849b1Y2
+DAUX13fae7302Y2
+DAUX140349c53Y2
+DAUX140bac5a4Y2
+DAUX14140eef5Y2
+DAUX141c71846Y2
+DAUX1424d4197Y2
+DAUX142d36ae8Y2
+DAUX143599439Y2
+DAUX143dfbd8aY2
+DAUX14465e6dbY2
+DAUX144ec102cY2
+DAUX14572397dY2
+DAUX145f862ceY2
+DAUX1467e8c1fY2
+DAUX14704b570Y2
+DAUX1478adec1Y2
+DAUX148110812Y2
+DAUX148973163Y2
+DAUX1491d5ab4Y2
+DAUX149a38405Y2
+DAUX14a29ad56Y2
+DAUX14aafd6a7Y2
+DAUX14b35fff8Y2
+DAUX14bbc2949Y2
+DAUX14c42529aY2
+DAUX14cc87bebY2
+DAUX14d4ea53cY2
+DAUX14dd4ce8dY2
+DAUX14e5af7deY2
+DAUX14ee1212fY2
+DAUX14f674a80Y2
+DAUX14fed73d1Y2
+DAUX150739d22Y2
+DAUX150f9c673Y2
+DAUX1517fefc4Y2
+DAUX152061915Y2
+DAUX1528c4266Y2
+DAUX153126bb7Y2
+DAUX153989508Y2
+DAUX1541ebe59Y2
+DAUX154a4e7aaY2
+DAUX1552b10fbY2
+DAUX155b13a4cY2
+DAUX15637639dY2
+DAUX156bd8ceeY2
+DAUX15743b63fY2
+DAUX157c9df90Y2
+DAUX1585008e1Y2
+DAUX158d63232Y2
+DAUX1595c5b83Y2
+DAUX159e284d4Y2
+DAUX15a68ae25Y2
+DAUX15aeed776Y2
+DAUX15b7500c7Y2
+DAUX15bfb2a18Y2
+DAUX15c815369Y2
+DAUX15d077cbaY2
+DAUX15d8da60bY2
+DAUX15e13cf5cY2
+DAUX15e99f8adY2
+DAUX15f2021feY2
+DAUX15fa64b4fY2
+DAUX1602c74a0Y2
+DAUX160b29df1Y2
+DAUX16138c742Y2
+DAUX161bef093Y2
+DAUX1624519e4Y2
+DAUX162cb4335Y2
+DAUX163516c86Y2
+DAUX163d795d7Y2
+DAUX1645dbf28Y2
+DAUX164e3e879Y2
+DAUX1656a11caY2
+DAUX165f03b1bY2
+DAUX16676646cY2
+DAUX166fc8dbdY2
+DAUX16782b70eY2
+DAUX16808e05fY2
+DAUX1688f09b0Y2
+DAUX169153301Y2
+DAUX1699b5c52Y2
+DAUX16a2185a3Y2
+DAUX16aa7aef4Y2
+DAUX16b2dd845Y2
+DAUX16bb40196Y2
+DAUX16c3a2ae7Y2
+DAUX16cc05438Y2
+DAUX16d467d89Y2
+DAUX16dcca6daY2
+DAUX16e52d02bY2
+DAUX16ed8f97cY2
+DAUX16f5f22cdY2
+DAUX16fe54c1eY2
+DAUX1706b756fY2
+DAUX170f19ec0Y2
+DAUX17177c811Y2
+DAUX171fdf162Y2
+DAUX172841ab3Y2
+DAUX1730a4404Y2
+DAUX173906d55Y2
+DAUX1741696a6Y2
+DAUX1749cbff7Y2
+DAUX17522e948Y2
+DAUX175a91299Y2
+DAUX1762f3beaY2
+DAUX176b5653bY2
+DAUX1773b8e8cY2
+DAUX177c1b7ddY2
+DAUX17847e12eY2
+DAUX178ce0a7fY2
+DAUX1795433d0Y2
+DAUX179da5d21Y2
+DAUX17a608672Y2
+DAUX17ae6afc3Y2
+DAUX17b6cd914Y2
+DAUX17bf30265Y2
+DAUX17c792bb6Y2
+DAUX17cff5507Y2
+DAUX17d857e58Y2
+DAUX17e0ba7a9Y2
+DAUX17e91d0faY2
+DAUX17f17fa4bY2
+DAUX17f9e239cY2
+DAUX180244cedY2
+DAUX180aa763eY2
+DAUX181309f8fY2
+DAUX181b6c8e0Y2
+DAUX1823cf231Y2
+DAUX182c31b82Y2
+DAUX1834944d3Y2
+DAUX183cf6e24Y2
+DAUX184559775Y2
+DAUX184dbc0c6Y2
+DAUX18561ea17Y2
+DAUX185e81368Y2
+DAUX1866e3cb9Y2
+DAUX186f4660aY2
+DAUX1877a8f5bY2
+DAUX18800b8acY2
+DAUX18886e1fdY2
+DAUX1890d0b4eY2
+DAUX18993349fY2
+DAUX18a195df0Y2
+DAUX18a9f8741Y2
+DAUX18b25b092Y2
+DAUX18babd9e3Y2
+DAUX18c320334Y2
+DAUX18cb82c85Y2
+DAUX18d3e55d6Y2
+DAUX18dc47f27Y2
+DAUX18e4aa878Y2
+DAUX18ed0d1c9Y2
+DAUX18f56fb1aY2
+DAUX18fdd246bY2
+DAUX190634dbcY2
+DAUX190e9770dY2
+DAUX1916fa05eY2
+DAUX191f5c9afY2
+DAUX1927bf300Y2
+DAUX193021c51Y2
+DAUX1938845a2Y2
+DAUX1940e6ef3Y2
+DAUX194949844Y2
+DAUX1951ac195Y2
+DAUX195a0eae6Y2
+DAUX196271437Y2
+DAUX196ad3d88Y2
+DAUX1973366d9Y2
+DAUX197b9902aY2
+DAUX1983fb97bY2
+DAUX198c5e2ccY2
+DAUX1994c0c1dY2
+DAUX199d2356eY2
+DAUX19a585ebfY2
+DAUX19ade8810Y2
+DAUX19b64b161Y2
+DAUX19beadab2Y2
+DAUX19c710403Y2
+DAUX19cf72d54Y2
+DAUX19d7d56a5Y2
+DAUX19e037ff6Y2
+DAUX19e89a947Y2
+DAUX19f0fd298Y2
+DAUX19f95fbe9Y2
+DAUX1a01c253aY2
+DAUX1a0a24e8bY2
+DAUX1a12877dcY2
+DAUX1a1aea12dY2
+DAUX1a234ca7eY2
+DAUX1a2baf3cfY2
+DAUX1a3411d20Y2
+DAUX1a3c74671Y2
+DAUX1a44d6fc2Y2
+DAUX1a4d39913Y2
+DAUX1a559c264Y2
+DAUX1a5dfebb5Y2
+DAUX1a6661506Y2
+DAUX1a6ec3e57Y2
+DAUX1a77267a8Y2
+DAUX1a7f890f9Y2
+DAUX1a87eba4aY2
+DAUX1a904e39bY2
+DAUX1a98b0cecY2
+DAUX1aa11363dY2
+DAUX1aa975f8eY2
+DAUX1ab1d88dfY2
+DAUX1aba3b230Y2
+DAUX1ac29db81Y2
+DAUX1acb004d2Y2
+DAUX1ad362e23Y2
+DAUX1adbc5774Y2
+DAUX1ae4280c5Y2
+DAUX1aec8aa16Y2
+DAUX1af4ed367Y2
+DAUX1afd4fcb8Y2
+DAUX1b05b2609Y2
+DAUX1b0e14f5aY2
+DAUX1b16778abY2
+DAUX1b1eda1fcY2
+DAUX1b273cb4dY2
+DAUX1b2f9f49eY2
+DAUX1b3801defY2
+DAUX1b4064740Y2
+DAUX1b48c7091Y2
+DAUX1b51299e2Y2
+DAUX1b598c333Y2
+DAUX1b61eec84Y2
+DAUX1b6a515d5Y2
+DAUX1b72b3f26Y2
+DAUX1b7b16877Y2
+DAUX1b83791c8Y2
+DAUX1b8bdbb19Y2
+DAUX1b943e46aY2
+DAUX1b9ca0dbbY2
+DAUX1ba50370cY2
+DAUX1bad6605dY2
+DAUX1bb5c89aeY2
+DAUX1bbe2b2ffY2
+DAUX1bc68dc50Y2
+DAUX1bcef05a1Y2
+DAUX1bd752ef2Y2
+DAUX1bdfb5843Y2
+DAUX1be818194Y2
+DAUX1bf07aae5Y2
+DAUX1bf8dd436Y2
+DAUX1c013fd87Y2
+DAUX1c09a26d8Y2
+DAUX1c1205029Y2
+DAUX1c1a6797aY2
+DAUX1c22ca2cbY2
+DAUX1c2b2cc1cY2
+DAUX1c338f56dY2
+DAUX1c3bf1ebeY2
+DAUX1c445480fY2
+DAUX1c4cb7160Y2
+DAUX1c5519ab1Y2
+DAUX1c5d7c402Y2
+DAUX1c65ded53Y2
+DAUX1c6e416a4Y2
+DAUX1c76a3ff5Y2
+DAUX1c7f06946Y2
+DAUX1c8769297Y2
+DAUX1c8fcbbe8Y2
+DAUX1c982e539Y2
+DAUX1ca090e8aY2
+DAUX1ca8f37dbY2
+DAUX1cb15612cY2
+DAUX1cb9b8a7dY2
+DAUX1cc21b3ceY2
+DAUX1cca7dd1fY2
+DAUX1cd2e0670Y2
+DAUX1cdb42fc1Y2
+DAUX1ce3a5912Y2
+DAUX1cec08263Y2
+DAUX1cf46abb4Y2
+DAUX1cfccd505Y2
+DAUX1d052fe56Y2
+DAUX1d0d927a7Y2
+DAUX1d15f50f8Y2
+DAUX1d1e57a49Y2
+DAUX1d26ba39aY2
+DAUX1d2f1ccebY2
+DAUX1d377f63cY2
+DAUX1d3fe1f8dY2
+DAUX1d48448deY2
+DAUX1d50a722fY2
+DAUX1d5909b80Y2
+DAUX1d616c4d1Y2
+DAUX1d69cee22Y2
+DAUX1d7231773Y2
+DAUX1d7a940c4Y2
+DAUX1d82f6a15Y2
+DAUX1d8b59366Y2
+DAUX1d93bbcb7Y2
+DAUX1d9c1e608Y2
+DAUX1da480f59Y2
+DAUX1dace38aaY2
+DAUX1db5461fbY2
+DAUX1dbda8b4cY2
+DAUX1dc60b49dY2
+DAUX1dce6ddeeY2
+DAUX1dd6d073fY2
+DAUX1ddf33090Y2
+DAUX1de7959e1Y2
+DAUX1deff8332Y2
+DAUX1df85ac83Y2
+DAUX1e00bd5d4Y2
+DAUX1e091ff25Y2
+DAUX1e1182876Y2
+DAUX1e19e51c7Y2
+DAUX1e2247b18Y2
+DAUX1e2aaa469Y2
+DAUX1e330cdbaY2
+DAUX1e3b6f70bY2
+DAUX1e43d205cY2
+DAUX1e4c349adY2
+DAUX1e54972feY2
+DAUX1e5cf9c4fY2
+DAUX1e655c5a0Y2
+DAUX1e6dbeef1Y2
+DAUX1e7621842Y2
+DAUX1e7e84193Y2
+DAUX1e86e6ae4Y2
+DAUX1e8f49435Y2
+DAUX1e97abd86Y2
+DAUX1ea00e6d7Y2
+DAUX1ea871028Y2
+DAUX1eb0d3979Y2
+DAUX1eb9362caY2
+DAUX1ec198c1bY2
+DAUX1ec9fb56cY2
+DAUX1ed25debdY2
+DAUX1edac080eY2
+DAUX1ee32315fY2
+DAUX1eeb85ab0Y2
+DAUX1ef3e8401Y2
+DAUX1efc4ad52Y2
+DAUX1f04ad6a3Y2
+DAUX1f0d0fff4Y2
+DAUX1f1572945Y2
+DAUX1f1dd5296Y2
+DAUX1f2637be7Y2
+DAUX1f2e9a538Y2
+DAUX1f36fce89Y2
+DAUX1f3f5f7daY2
+DAUX1f47c212bY2
+DAUX1f5024a7cY2
+DAUX1f58873cdY2
+DAUX1f60e9d1eY2
+DAUX1f694c66fY2
+DAUX1f71aefc0Y2
+DAUX1f7a11911Y2
+DAUX1f8274262Y2
+DAUX1f8ad6bb3Y2
+DAUX1f9339504Y2
+DAUX1f9b9be55Y2
+DAUX1fa3fe7a6Y2
+DAUX1fac610f7Y2
+DAUX1fb4c3a48Y2
+DAUX1fbd26399Y2
+DAUX1fc588ceaY2
+DAUX1fcdeb63bY2
+DAUX1fd64df8cY2
+DAUX1fdeb08ddY2
+DAUX1fe71322eY2
+DAUX1fef75b7fY2
+DAUX1ff7d84d0Y2
+DAUX20003ae21Y2
+DAUX20089d772Y2
+DAUX2011000c3Y2
+DAUX201962a14Y2
+DAUX2021c5365Y2
+DAUX202a27cb6Y2
+DAUX20328a607Y2
+DAUX203aecf58Y2
+DAUX20434f8a9Y2
+DAUX204bb21faY2
+DAUX205414b4bY2
+DAUX205c7749cY2
+DAUX2064d9dedY2
+DAUX206d3c73eY2
+DAUX20759f08fY2
+DAUX207e019e0Y2
+DAUX208664331Y2
+DAUX208ec6c82Y2
+DAUX2097295d3Y2
+DAUX209f8bf24Y2
+DAUX20a7ee875Y2
+DAUX20b0511c6Y2
+DAUX20b8b3b17Y2
+DAUX20c116468Y2
+DAUX20c978db9Y2
+DAUX20d1db70aY2
+DAUX20da3e05bY2
+DAUX20e2a09acY2
+DAUX20eb032fdY2
+DAUX20f365c4eY2
+DAUX20fbc859fY2
+DAUX21042aef0Y2
+DAUX210c8d841Y2
+DAUX2114f0192Y2
+DAUX211d52ae3Y2
+DAUX2125b5434Y2
+DAUX212e17d85Y2
+DAUX21367a6d6Y2
+DAUX213edd027Y2
+DAUX21473f978Y2
+DAUX214fa22c9Y2
+DAUX215804c1aY2
+DAUX21606756bY2
+DAUX2168c9ebcY2
+DAUX21712c80dY2
+DAUX21798f15eY2
+DAUX2181f1aafY2
+DAUX218a54400Y2
+DAUX2192b6d51Y2

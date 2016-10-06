@@ -10,8 +10,8 @@ Supplemental material for "Edge Bundling for Visualizing Communication Behavior"
 License
 -------
 
-The Lulesh trace is [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-I am not sure about the source/license for the other traces.
+The Lulesh and FD4 traces are [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+I am not sure about the source/license for the other two traces.
 If you want to use/redistribute these traces, please contact me.
 
 Authors

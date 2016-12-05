@@ -1,7 +1,7 @@
 Edge Bundling for Visualizing Communication Behavior
 ====================================================
 
-Supplemental material for "Edge Bundling for Visualizing Communication Behavior" submitted to the [Workshop on Visual Performance Analysis](http://www.cedmav.org/events/vpa-2016.html) at [Super Computing Conference 2016](http://sc16.supercomputing.org/)
+Supplemental material for "Edge Bundling for Visualizing Communication Behavior" submitted to the [Workshop on Visual Performance Analysis](http://www.cedmav.org/events/vpa-2016.html) at [Super Computing Conference 2016](http://sc16.supercomputing.org/) ([Paper](http://automaton2000.com/publications/2016-sc-vpa-workshop-edge-bundling-for-visualizing-communication-behavior.pdf), [Slides](http://automaton2000.com/publications/2016-sc-vpa-workshop-edge-bundling-for-visualizing-communication-behavior-slides.pdf), [Scholar](https://scholar.google.de/citations?view_op=view_citation&citation_for_view=N-no9REAAAAJ:zYLM7Y9cAGgC))
 
 - All traces are OTF traces (https://tu-dresden.de/zih/otf)
 - I do not intend to distribute the source code used for the edge bundling, because it's a huge mess. If you still want it, please contact me.
